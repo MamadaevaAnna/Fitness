@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../fonts/RobotoCondensed/RobotoCondensed-Light.eot');
+  src: local('Roboto Condensed Light'), local('RobotoCondensed-Light'),
+    url('../fonts/RobotoCondensed/RobotoCondensed-Light.eot') format('embedded-opentype'),
+    url('../fonts/RobotoCondensed/RobotoCondensed-Light.woff') format('woff'),
+    url('../fonts/RobotoCondensed/RobotoCondensed-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../fonts/RobotoCondensed/RobotoCondensed-Regular.eot');
+  src: local('Roboto Condensed'), local('RobotoCondensed-Regular'),
+    url('../fonts/RobotoCondensed/RobotoCondensed-Regular.eot') format('embedded-opentype'),
+    url('../fonts/RobotoCondensed/RobotoCondensed-Regular.woff') format('woff'),
+    url('../fonts/RobotoCondensed/RobotoCondensed-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../fonts/RobotoCondensed/RobotoCondensed-Bold.eot');
+  src: local('Roboto Condensed Bold'), local('RobotoCondensed-Bold'),
+    url('../fonts/RobotoCondensed/RobotoCondensed-Bold.eot') format('embedded-opentype'),
+    url('../fonts/RobotoCondensed/RobotoCondensed-Bold.woff') format('woff'),
+    url('../fonts/RobotoCondensed/RobotoCondensed-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('../fonts/BebasNeue/BebasNeueRegular.eot');
+  src: local('Bebas Neue Regular'), local('BebasNeueRegular'),
+    url('../fonts/BebasNeue/BebasNeueRegular.eot') format('embedded-opentype'),
+    url('../fonts/BebasNeue/BebasNeueRegular.woff') format('woff'),
+    url('../fonts/BebasNeue/BebasNeueRegular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('../fonts/BebasNeue/BebasNeueBold.eot');
+  src: local('Bebas Neue Bold'), local('BebasNeueBold'),
+    url('../fonts/BebasNeue/BebasNeueBold.eot') format('embedded-opentype'),
+    url('../fonts/BebasNeue/BebasNeueBold.woff') format('woff'),
+    url('../fonts/BebasNeue/BebasNeueBold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+
+          // // Small devices (landscape phones, 576px and up)
+          // @media (min-width: 576px) { ... }
+          
+          // // Medium devices (tablets, 768px and up)
+          // @media (min-width: 768px) { ... }
+          
+          // // Large devices (desktops, 992px and up)
+          // @media (min-width: 992px) { ... }
+          
+          // // Extra large devices (large desktops, 1200px and up)
+          // @media (min-width: 1200px) { ... }
+          
+          // ===
+          
+          // // Extra small devices (portrait phones, less than 576px)
+          // @media (max-width: 575.98px) { ... }
+          
+          // // Small devices (landscape phones, less than 768px)
+          // @media (max-width: 767.98px) { ... }
+          
+          // // Medium devices (tablets, less than 992px)
+          // @media (max-width: 991.98px) { ... }
+          
+          // // Large devices (desktops, less than 1200px)
+          // @media (max-width: 1199.98px) { ... }
+          
+          // ===
+          
+          // // Extra small devices (portrait phones, less than 576px)
+          // @media (max-width: 575.98px) { ... }
+          
+          // // Small devices (landscape phones, 576px and up)
+          // @media (min-width: 576px) and (max-width: 767.98px) { ... }
+          
+          // // Medium devices (tablets, 768px and up)
+          // @media (min-width: 768px) and (max-width: 991.98px) { ... }
+          
+          // // Large devices (desktops, 992px and up)
+          // @media (min-width: 992px) and (max-width: 1199.98px) { ... }
+          
+          // // Extra large devices (large desktops, 1200px and up)
+          // @media (min-width: 1200px) { ... }
+
+
+
+
